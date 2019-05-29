@@ -1,4 +1,4 @@
-# JoesKotlinSpring
+# JoesKotlinSpring test
 my new project
 
 Based on seed project `atomist-seeds:kotlin-rest`
