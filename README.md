@@ -1,7 +1,8 @@
-# JoesKotlinSpring test
+# JoesKotlinSpring
 my new project
 
 Based on seed project `atomist-seeds:kotlin-rest`
+
 
 ## Development
 
